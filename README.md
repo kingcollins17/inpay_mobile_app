@@ -45,6 +45,10 @@ Welcome to **Inpay**, a mobile e-wallet application that allows users to transfe
 
 ## Screenshots
 
+- Account Balance
+![Image](https://drive.google.com/uc?id=10QYnUxk2ONBG16-Wi1W_nvz_S710gGoU)
+
+
 1.Recent Transactions ![Image 1](https://drive.google.com/uc?id=10i0W1Xc-PXLeeyzIqn65EgW-u--8vP3x)
 
 2.Loans Feature ![Image 2](https://drive.google.com/uc?id=10dLasMzBZ7XXJCd7wmSJHls0uX8uemk1)
